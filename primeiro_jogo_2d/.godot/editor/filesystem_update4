@@ -1,0 +1,8 @@
+res://player.tscn
+res://scripts/player.gd
+res://mob.tscn
+res://scripts/mob.gd
+res://main.tscn
+res://scripts/main.gd
+res://HUD.tscn
+res://scripts/HUD.gd
